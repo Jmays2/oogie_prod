@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/oogie_prod/static/css/main.19b9f121.chunk.css",
+    "main.js": "/oogie_prod/static/js/main.5835973e.chunk.js",
+    "main.js.map": "/oogie_prod/static/js/main.5835973e.chunk.js.map",
+    "runtime-main.js": "/oogie_prod/static/js/runtime-main.f3192b47.js",
+    "runtime-main.js.map": "/oogie_prod/static/js/runtime-main.f3192b47.js.map",
+    "static/js/2.4f920cb7.chunk.js": "/oogie_prod/static/js/2.4f920cb7.chunk.js",
+    "static/js/2.4f920cb7.chunk.js.map": "/oogie_prod/static/js/2.4f920cb7.chunk.js.map",
+    "index.html": "/oogie_prod/index.html",
+    "precache-manifest.b92f8f9a915c3aa83d5fdacfcd0367c7.js": "/oogie_prod/precache-manifest.b92f8f9a915c3aa83d5fdacfcd0367c7.js",
+    "service-worker.js": "/oogie_prod/service-worker.js",
+    "static/css/main.19b9f121.chunk.css.map": "/oogie_prod/static/css/main.19b9f121.chunk.css.map",
+    "static/js/2.4f920cb7.chunk.js.LICENSE.txt": "/oogie_prod/static/js/2.4f920cb7.chunk.js.LICENSE.txt",
+    "static/media/chefs.svg": "/oogie_prod/static/media/chefs.5b98a5e8.svg",
+    "static/media/Homepage.css": "/oogie_prod/static/media/chefs_long.0f04daad.svg",
+    "static/media/food_pic.svg": "/oogie_prod/static/media/food_pic.4b921bd9.svg",
+    "static/media/hamburger-menu.svg": "/oogie_prod/static/media/hamburger-menu.c1914a22.svg",
+    "static/media/oogie_logo.svg": "/oogie_prod/static/media/oogie_logo.50deb56d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3192b47.js",
+    "static/js/2.4f920cb7.chunk.js",
+    "static/css/main.19b9f121.chunk.css",
+    "static/js/main.5835973e.chunk.js"
+  ]
+}
