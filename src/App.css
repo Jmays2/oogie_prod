@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+body, html{
+    height: 100%;
+    margin: 0;
+    font-family: 'Nanum Pen Script', cursive;
+    max-width: 100%;
+}
+
+body {
+    background-color: rgb(255,239,239);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+@media screen and (min-width: 769px){
+    .app-container{
+        display: grid;
+        grid-template-columns: 20% auto;
+        margin: 0;
+        padding: 0;
+    }
+
+}

@@ -1,0 +1,177 @@
+.home-container {
+    position: absolute;
+    padding: 0;
+    margin-top: 3em;
+}
+
+.ban-content-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-cont-banner, 
+.white-banner-1, 
+.white-banner-2,
+.quote-banner, 
+.order-now-prompt,
+.first-img-section,
+.second-img-section {
+    text-align: center;
+    width: 100%;
+    z-index: 0;
+}
+.main-cont-banner {
+    color: white;
+    font-size: 35px;
+    background-color: rgba(86,87,116,65%);
+}
+
+.white-banner-1, 
+.white-banner-2{
+    font-size: 35px;
+    background-color: rgba(202, 199, 199, 0.925);
+}
+
+.quote-banner {
+    color: white;
+    font-size: 35px;
+    background-color: rgba(86,87,116,65%);
+}
+.order-now-prompt{
+    font-size: 35px;
+    background-color: rgba(121, 121, 121, 0.911);
+    color: black;
+    height: 50vh;
+}
+#order-now-btn{
+    border: none;
+    border-radius: 15px;
+    background-color: #52A870;
+    width: 150px;
+    height: 45px;
+    font-size: 29px;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+#order-now-btn:hover{
+    background-color: #317047;
+    color: rgb(209, 209, 209);
+    cursor: pointer;
+}
+.banner-txt {
+    padding: 0.3em 1.5em;
+}
+.mission-txt{
+    color: white;
+    padding: 0.8em 2em;
+    font-weight: bold;
+}
+.quote-txt{
+    text-transform: uppercase;
+    color: black;
+    padding: 0.5em 1.6em;
+    font-weight: bold;
+}
+.banner-txt-img {
+    color: rgb(179, 179, 179);
+    padding: 0.8em 2em;
+    font-weight: bold;
+}
+
+#chef-img {
+    position: fixed;
+    width: 100%;
+    z-index: -1;
+}
+.first-img-section {
+    display: inline-flex;
+    background: url('./food_pic.svg') no-repeat center;
+    background-size: cover;
+    /* height: 20em; */
+    height: 40vh;
+}
+
+#footer-txt{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5vh;
+    color: rgb(70, 66, 66);
+}
+
+.second-img-section {
+    background: url('./chefs_long.svg') no-repeat center;
+    background-size: 100em 100em;
+    height: 17em;
+    height: 30vh;
+    display: inline-flex;
+}
+.transparent-bkgnd {
+    height: 100%;
+    width: 50%;
+}
+
+.first-img-section p, 
+.second-img-section 
+.transparent-bkgnd{
+    font-size: 2.5vw;
+}
+
+.transparent-bkgnd-txt{
+    padding: 0.8em 1.5em;
+    color: white;
+    font-size: bold;
+}
+
+#orange{
+    background-color: rgba(204, 121, 39, 0.671);
+}
+#blue{
+    background-color: rgba(86, 87, 116, 0.692);
+}
+.transparent-white {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.58);
+}
+#transparent-white-blk1,
+#transparent-white-blk2 {
+    color: rgb(110,105,105);
+    float: left;
+    padding-left: 8vw;
+}
+
+#transparent-white-blk2{
+    padding-left: 5vw;
+    padding-right: 45vw;
+}
+
+hr {
+    margin-top: 100px;
+    width: 75%;
+    border: rgb(122, 120, 120) solid 1.85px;
+}
+
+@media screen and (max-width: 768px) {
+    .main-content-web{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .main-content-mobile {
+        display: none;
+    }
+    .home-container{
+        margin-top: 0;
+    }
+    .order-now-prompt {
+        position: absolute;
+        justify-self: end;
+        height: 100%;
+        top: 70vh;
+        font-size: 2.5vw;
+    }
+    #order-now-btn {
+        width: 15vw;
+        font-size: 2vw;
+    }
+}
