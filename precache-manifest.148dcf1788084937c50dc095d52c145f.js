@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06b282e72b1b671843056e39caf38e0d",
+    "revision": "a671819581b684524cc1a647efa8181e",
     "url": "/oogie_prod/index.html"
   },
   {
