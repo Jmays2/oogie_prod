@@ -5,10 +5,10 @@ body, html{
     margin: 0;
     font-family: 'Nanum Pen Script', cursive;
     max-width: 100%;
+    background-color: white;
 }
 
 body {
-    background-color: rgb(255,239,239);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
