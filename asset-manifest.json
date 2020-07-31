@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oogie_prod/static/css/main.307f90cc.chunk.css",
+    "main.css": "/oogie_prod/static/css/main.e3a14551.chunk.css",
     "main.js": "/oogie_prod/static/js/main.5835973e.chunk.js",
     "main.js.map": "/oogie_prod/static/js/main.5835973e.chunk.js.map",
     "runtime-main.js": "/oogie_prod/static/js/runtime-main.f3192b47.js",
@@ -8,9 +8,9 @@
     "static/js/2.4f920cb7.chunk.js": "/oogie_prod/static/js/2.4f920cb7.chunk.js",
     "static/js/2.4f920cb7.chunk.js.map": "/oogie_prod/static/js/2.4f920cb7.chunk.js.map",
     "index.html": "/oogie_prod/index.html",
-    "precache-manifest.b903fc7dce90480153023e531e34db23.js": "/oogie_prod/precache-manifest.b903fc7dce90480153023e531e34db23.js",
+    "precache-manifest.62c79f2ba4da274cf7ad543af98161b6.js": "/oogie_prod/precache-manifest.62c79f2ba4da274cf7ad543af98161b6.js",
     "service-worker.js": "/oogie_prod/service-worker.js",
-    "static/css/main.307f90cc.chunk.css.map": "/oogie_prod/static/css/main.307f90cc.chunk.css.map",
+    "static/css/main.e3a14551.chunk.css.map": "/oogie_prod/static/css/main.e3a14551.chunk.css.map",
     "static/js/2.4f920cb7.chunk.js.LICENSE.txt": "/oogie_prod/static/js/2.4f920cb7.chunk.js.LICENSE.txt",
     "static/media/chefs.svg": "/oogie_prod/static/media/chefs.5b98a5e8.svg",
     "static/media/Homepage.css": "/oogie_prod/static/media/chefs_long.0f04daad.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.f3192b47.js",
     "static/js/2.4f920cb7.chunk.js",
-    "static/css/main.307f90cc.chunk.css",
+    "static/css/main.e3a14551.chunk.css",
     "static/js/main.5835973e.chunk.js"
   ]
 }

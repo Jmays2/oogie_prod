@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c17f51efc6030d504672e04fc72a4ecc",
+    "revision": "79ed489acec6822baa778ddd2433eb1b",
     "url": "/oogie_prod/index.html"
   },
   {
-    "revision": "3a1f45e2c739f2f5951d",
-    "url": "/oogie_prod/static/css/main.307f90cc.chunk.css"
+    "revision": "150da503a418885a2c27",
+    "url": "/oogie_prod/static/css/main.e3a14551.chunk.css"
   },
   {
     "revision": "3b87de0fa25af51ecb45",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oogie_prod/static/js/2.4f920cb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a1f45e2c739f2f5951d",
+    "revision": "150da503a418885a2c27",
     "url": "/oogie_prod/static/js/main.5835973e.chunk.js"
   },
   {
